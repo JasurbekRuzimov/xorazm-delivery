@@ -1,0 +1,11 @@
+target/
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+.DS_Store
+.env
+nginx/ssl/
+src/main/resources/keys/
+application-prod.yml
